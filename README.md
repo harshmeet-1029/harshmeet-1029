@@ -56,14 +56,14 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img width="30px" src="https://drive.google.com/file/d/1RiqslmJBZGsxxS_aW4uuUsCnkRp-WXea/view?usp=sharing" />
+    <img width="30px" src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/OIP-removebg-preview.png" />
   </kbd>
   &nbsp;
   <kbd>
     <kbd>Testing Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" />
+    <img width="30px" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" />
   </kbd>
   <br>
   <br>
