@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/your-username?style=social"> &nbsp;&nbsp; 
-<img alt="Your Name's | Count Views" src="https://en7651zhhra152k.m.pipedream.net" />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/harshmeet-1029?style=social"> &nbsp;&nbsp; 
+<img alt="Harshmeet Singh | Count Views" src="https://en7651zhhra152k.m.pipedream.net" />
 
 <div align="center">
-  <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-  <h3 align="center">A Passionate Developer Specializing in React, Node.js, MongoDB, and Web Technologies</h3>
+  <h1 align="center">Hi 👋, I'm Harshmeet Singh</h1>
+  <h3 align="center">A Passionate Developer Specializing in React, Next, Node.js, MongoDB, SQL Many more...</h3>
 <br/>
 </div>
 
@@ -56,10 +56,10 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Stats
 <div align="center">
 
-| ![Your github stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight) | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&show_icon=true&theme=algolia" alt="your-username-langs"/> |
+| ![Your github stats](https://github-readme-stats.vercel.app/api?username=harshmeet-1029&show_icons=true&theme=tokyonight) | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmeet-1029&layout=compact&show_icon=true&theme=algolia" alt="harshmeet-1029-langs"/> |
 | --- | --- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=your-username&layout=dracula&theme=dracula&column=4&row=1" alt="Your Name" /> | ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight) |
+| <img src="https://github-profile-trophy.vercel.app/?username=harshmeet-1029&layout=dracula&theme=dracula&column=4&row=1" alt="Your Name" /> | ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshmeet-1029&theme=tokyonight) |
 | --- | --- |
 
 <h2 align="center"> 
@@ -75,17 +75,14 @@
     <img align="center" alt="Your Name | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/harshmeet-1029" target="_blank">
     <img align="center" alt="Your Name | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://stackoverflow.com/users/your-id/your-name" target="_blank">
     <img align="center" alt="Your Name | Stack Overflow" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://www.upwork.com/freelancers/~your-profile" target="_blank">
-    <img align="center" alt="Your Name | Upwork" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" />
-  </a> &nbsp;&nbsp;
+   &nbsp;&nbsp;
 </p> 
 
 
