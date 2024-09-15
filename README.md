@@ -90,14 +90,14 @@
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"></img> Professional Experience
 
-| <a href="https://www.techformation.co.in/" target=_blank><img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> <a/>| **Tech Formation** |
+| <a href="https://www.techformation.co.in/" target="_blank"><img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> <a/>| **Tech Formation** |
 | :---: | --- |
 | **📋 Role:** | Full Stack Developer |
 | **🌍 Location:** | Punjab, India |
 | **⏳ Duration:** | July 2023 – Present |
 | **💼 Summary:** | • Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance.<br>• Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope.<br>• Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%.<br>• Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
 
-| <a href="https://ontariotechu.ca/" target=_blank><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> | **Ontario Tech University** |
+| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> | **Ontario Tech University** |
 | :---: | --- |
 | **📋 Role:** | Mitacs Globalink Research Intern |
 | **🌍 Location:** | Oshawa, Canada |
