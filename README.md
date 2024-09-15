@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/harshmeet-1029?style=social"> &nbsp;&nbsp; 
 <img alt="Harshmeet Singh | Count Views" src="https://en7651zhhra152k.m.pipedream.net" />
 
