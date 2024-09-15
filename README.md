@@ -56,7 +56,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img width="30px" src="https://drive.google.com/file/d/1vKy76MmRRuToOy09rlADPFORCrk2Wmsp/view?usp=sharing" />
+    <img width="30px" src="https://drive.google.com/file/d/1RiqslmJBZGsxxS_aW4uuUsCnkRp-WXea/view?usp=sharing" />
   </kbd>
   &nbsp;
   <kbd>
