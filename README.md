@@ -67,11 +67,11 @@
 </h2>
 
 <p align="center">
-  <a href="mailto:your-email" >
+  <a href="mailto:harshmeetsingh010@gmail.com" >
     <img align="center" alt="Your Name | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/harshmeet-singh-725525219/" target="_blank">
     <img align="center" alt="Your Name | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
@@ -79,7 +79,7 @@
     <img align="center" alt="Your Name | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://stackoverflow.com/users/your-id/your-name" target="_blank">
+  <a href="https://stackoverflow.com/users/12310916/harshmeet-singh" target="_blank">
     <img align="center" alt="Your Name | Stack Overflow" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" />
   </a> &nbsp;&nbsp;
    &nbsp;&nbsp;
