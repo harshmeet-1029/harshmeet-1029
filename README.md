@@ -11,9 +11,9 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> About Me
 
-- :school: I hold a [Your Degree or Qualification]
-- :books: My core expertise lies in **[Your Specialization]**
-- :earth_asia: Currently based in [Your Location]
+- :school: I hold a Bachelor of Technology in Computer Science and Engineering
+- :books: My core expertise lies in **Software Engineering**
+- :earth_asia: Currently based in Punjab, India
 - :monocle_face: I love coding, solving complex problems, and working on innovative projects
 - :sunglasses: My favorite quote is ***"The only way to do great work is to love what you do"***
 
