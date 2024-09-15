@@ -90,21 +90,21 @@
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"></img> Professional Experience
 
-| <a href="https://www.techformation.co.in/"><img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> <a/>| **Tech Formation** |
+| <a href="https://www.techformation.co.in/" target=_blank><img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> <a/>| **Tech Formation** |
 | :---: | --- |
 | **📋 Role:** | Full Stack Developer |
 | **🌍 Location:** | Punjab, India |
 | **⏳ Duration:** | July 2023 – Present |
 | **💼 Summary:** | • Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance.<br>• Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope.<br>• Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%.<br>• Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
 
-| <img src="IMAGE_LINK_HERE" width="50px"> | **Ontario Tech University** |
+| <a href="https://ontariotechu.ca/" target=_blank><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> | **Ontario Tech University** |
 | :---: | --- |
 | **📋 Role:** | Mitacs Globalink Research Intern |
 | **🌍 Location:** | Oshawa, Canada |
 | **⏳ Duration:** | July 2022 – October 2022 |
 | **💼 Summary:** | • Enhanced RtemSoft's Autonomous Vehicle Simulator at Ontario Tech University, improving simulation accuracy by 30% and increasing user interaction realism by 40% through ADB integration and car steering wheel button control.<br>• Engineered NVIDIA Jetson Nano Controller integration for real-time speed metric display on Gauge Cluster interface, enhancing data visualization by 50%.<br>• Demonstrated proficiency in embedded systems, automotive technology, and software integration by completing 2 major feature implementations within the project timeline.<br>• Applied practical knowledge of ADB (Android Debug Bridge) systems, NVIDIA hardware, and automotive interfaces to resolve 15+ technical challenges, ensuring seamless integration of all components. |
 
-| <img src="IMAGE_LINK_HERE" width="50px"> | **Ansh Infotech** |
+| <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGGcQ68Y04IXg/company-logo_200_200/0/1637139339698?e=2147483647&v=beta&t=73WlxRy9E_A3S6JnlrnwjFbycq0voZSvpgAW4adGT4g" width="50px"> | **Ansh Infotech** |
 | :---: | --- |
 | **📋 Role:** | Research Intern |
 | **🌍 Location:** | Punjab, India |
