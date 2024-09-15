@@ -90,7 +90,7 @@
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px"></img> Professional Experience
 
-| <img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> | **Tech Formation** |
+| <a href="https://www.techformation.co.in/"><img src="https://www.techformation.co.in/wp-content/uploads/2018/10/square-logo-favicon-ratina.png" width="50px"> <a/>| **Tech Formation** |
 | :---: | --- |
 | **📋 Role:** | Full Stack Developer |
 | **🌍 Location:** | Punjab, India |
