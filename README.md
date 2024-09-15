@@ -37,7 +37,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://laravel.com/img/logomark.min.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -48,8 +48,6 @@
     <kbd>Technologies</kbd>
     <br>
     <br>
-    <img width="30px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-iot-smart-home-flat-flat-juicy-fish.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pwa/pwa-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
   </kbd>
   &nbsp;
@@ -58,7 +56,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" />
+    <img width="30px" src="https://drive.google.com/file/d/1vKy76MmRRuToOy09rlADPFORCrk2Wmsp/view?usp=sharing" />
   </kbd>
   &nbsp;
   <kbd>
