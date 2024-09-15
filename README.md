@@ -57,7 +57,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img width="40px" src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/OIP-removebg-preview.png" />
+    <img width="45px" src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/OIP-removebg-preview.png" />
   </kbd>
   &nbsp;
   <br>
