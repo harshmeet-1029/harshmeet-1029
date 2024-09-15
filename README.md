@@ -88,6 +88,8 @@
   </kbd>
 </p>
 
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30px" ></img> Professional Experience
+
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Stats
 <div align="center">
