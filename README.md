@@ -68,6 +68,7 @@
     <br>
     <img width="30px" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" />
   </kbd>
+    &nbsp;
   <kbd>
     <kbd>Other Skills</kbd>
     <br>
