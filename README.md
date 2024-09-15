@@ -94,28 +94,28 @@
 | --- | --- |
 | **Role:** Full Stack Developer | **Location:** Punjab, India |
 | **Duration:** July 2023 – Present | **Summary:** |
-| | - Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance. |
-| | - Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope. |
-| | - Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%. |
-| | - Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
+| | • Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance. |
+| | • Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope. |
+| | • Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%. |
+| | • Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
 
 | <img src="IMAGE_LINK_HERE" width="50px"> | **Ontario Tech University** |
 | --- | --- |
 | **Role:** Mitacs Globalink Research Intern | **Location:** Oshawa, Canada |
 | **Duration:** July 2022 – October 2022 | **Summary:** |
-| | - Enhanced RtemSoft's Autonomous Vehicle Simulator, improving simulation accuracy by 30% and increasing user interaction realism by 40% through ADB integration and car steering wheel button control. |
-| | - Engineered NVIDIA Jetson Nano Controller integration for real-time speed metric display on the Gauge Cluster interface, enhancing data visualization by 50%. |
-| | - Demonstrated proficiency in embedded systems, automotive technology, and software integration by completing 2 major feature implementations within the project timeline. |
-| | - Applied practical knowledge of ADB (Android Debug Bridge) systems, NVIDIA hardware, and automotive interfaces to resolve 15+ technical challenges. |
+| | • Enhanced RtemSoft's Autonomous Vehicle Simulator, improving simulation accuracy by 30% and increasing user interaction realism by 40% through ADB integration and car steering wheel button control. |
+| | • Engineered NVIDIA Jetson Nano Controller integration for real-time speed metric display on the Gauge Cluster interface, enhancing data visualization by 50%. |
+| | • Demonstrated proficiency in embedded systems, automotive technology, and software integration by completing 2 major feature implementations within the project timeline. |
+| | • Applied practical knowledge of ADB (Android Debug Bridge) systems, NVIDIA hardware, and automotive interfaces to resolve 15+ technical challenges. |
 
 | <img src="IMAGE_LINK_HERE" width="50px"> | **Ansh Infotech** |
 | --- | --- |
-| **Role:** Research Intern | **Location:** Punjab, India |
-| **Duration:** July 2021 – October 2021 | **Summary:** |
-| | - Conducted in-depth research on static modeling for autonomous cars, contributing to a 25% improvement in self-driving technology accuracy over a 4-month internship. |
-| | - Utilized expertise in Python to implement YOLOv7 for lane and sign detection, achieving an 85% accuracy rate in identifying road elements across 1000+ test scenarios. |
-| | - Developed and optimized algorithms for static modeling, leading to a 40% reduction in processing time for real-time road element detection. |
-| | - Improved model performance by 35% through iterative testing and refinement. |
+| **Role -** Research Intern | **Location -** <br>Punjab, India |
+| **Duration -** <br>July 2021 – October 2021 | **Summary:** |
+| | • Conducted in-depth research on static modeling for autonomous cars, contributing to a 25% improvement in self-driving technology accuracy over a 4-month internship. |
+| | • Utilized expertise in Python to implement YOLOv7 for lane and sign detection, achieving an 85% accuracy rate in identifying road elements across 1000+ test scenarios. |
+| | • Developed and optimized algorithms for static modeling, leading to a 40% reduction in processing time for real-time road element detection. |
+| | • Improved model performance by 35% through iterative testing and refinement. |
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px"> Stats
