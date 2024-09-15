@@ -37,6 +37,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://laravel.com/img/logomark.min.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
@@ -59,20 +60,30 @@
     <img width="30px" src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/OIP-removebg-preview.png" />
   </kbd>
   &nbsp;
+  <br>
+<br>
   <kbd>
     <kbd>Testing Tools</kbd>
     <br>
     <br>
     <img width="30px" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" />
   </kbd>
-  <br>
-  <br>
   <kbd>
     <kbd>Other Skills</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </kbd>
+    &nbsp;
+ <kbd>
+    <kbd>Tools & OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
 
