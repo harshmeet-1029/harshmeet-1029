@@ -37,7 +37,7 @@
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -48,7 +48,7 @@
     <kbd>Technologies</kbd>
     <br>
     <br>
-    <img width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-iot-internet-of-things-integration-with-digital-communication-cloud-computing-shadow-tal-revivo.png" />
+    <img width="30px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-iot-smart-home-flat-flat-juicy-fish.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pwa/pwa-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
   </kbd>
