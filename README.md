@@ -38,7 +38,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "Bootstap"/>
     <img width="30px" src="https://laravel.com/img/logomark.min.svg" title = "Laravel"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React JS"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "Next JS"/>
+    <img width="30px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title = "Next JS"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title = "Express JS"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title = "Flutter"/>
   </kbd>
@@ -95,7 +96,13 @@
 | **⏳ Duration:** | July 2023 – Present |
 | **💼 Summary:** | • Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance.<br>• Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope.<br>• Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%.<br>• Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
 
-| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px" style="display: inline-block;"></a> <a href="https://www.mitacs.ca/" target="_blank"><img src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="90px" style="display: inline-block;"></a> | **Ontario Tech University** x **Mitacs Globalink** |
+| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px" style="display: inline-block;"></a> <a href="https://www.mitacs.ca/" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/mitacs_logo_black.svg" width="90px" style="display: inline-block;">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="90px" style="display: inline-block;">
+    <img alt="Mitacs Logo" src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="90px" style="display: inline-block;">
+  </picture>
+  </a>  | **Ontario Tech University** x **Mitacs Globalink** |
 | :---: | --- |
 | **📋 Role:** | Mitacs Globalink Research Intern |
 | **🌍 Location:** | Oshawa, Canada |
