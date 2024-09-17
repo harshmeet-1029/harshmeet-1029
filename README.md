@@ -95,7 +95,7 @@
 | **⏳ Duration:** | July 2023 – Present |
 | **💼 Summary:** | • Developed and deployed 10+ projects utilizing a modern tech stack, including Laravel, Node.Js, React.Js, Next.Js, Express.Js, Progressive Web Apps, WebSocket, Flutter, and MongoDB, resulting in a 30% increase in application performance.<br>• Exhibited versatility by successfully adapting to 8 different programming languages and frameworks within 6 months, contributing to a 20% expansion in project scope.<br>• Demonstrated strong problem-solving abilities by efficiently troubleshooting and resolving 50+ production issues, reducing average downtime by 40%.<br>• Showcased technical proficiency across front-end, back-end, and mobile development platforms, successfully delivering 3 cross-platform applications that increased client reach by 50%. |
 
-| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> x <a href="https://www.mitacs.ca/" target="_blank"><img src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="50px"></a> | **Ontario Tech University** x **Mitacs Globalink** |
+| <div style="display: flex; align-items: center;"> <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> x <a href="https://www.mitacs.ca/" target="_blank"><img src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="50px"></a> </div>| **Ontario Tech University** x **Mitacs Globalink** |
 | :---: | --- |
 | **📋 Role:** | Mitacs Globalink Research Intern |
 | **🌍 Location:** | Oshawa, Canada |
