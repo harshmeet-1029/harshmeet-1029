@@ -12,7 +12,8 @@
 - :school: I hold a Bachelor of Technology in Computer Science and Engineering
 - :books: My core expertise lies in **Software Engineering**
 - :earth_asia: Currently based in Punjab, India
-- :monocle_face: I love coding, solving complex problems, and working on innovative projects
+-
+ :monocle_face: I love coding, solving complex problems, and working on innovative projects
 - :sunglasses: My favorite quote is ***"The only way to do great work is to love what you do"***
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
@@ -65,7 +66,7 @@
     <kbd>Testing Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" title = "Cypress"/>
+    <img width="30px" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" title = "Cypress"/>
   </kbd>
     &nbsp;
   <kbd>
