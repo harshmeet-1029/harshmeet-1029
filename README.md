@@ -101,7 +101,7 @@
 
 ---
 
-| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://harsh-nextjs-demo-users-image.s3.ap-south-1.amazonaws.com/shield-01.png" width="50px"></a> <a href="https://www.mitacs.ca/" target="_blank"><img src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="90px"></a> | **Ontario Tech University** x **Mitacs Globalink** |
+| <a href="https://ontariotechu.ca/" target="_blank"><img src="https://images.seeklogo.com/logo-png/35/1/ontario-tech-university-logo-png_seeklogo-358279.png" width="50px"></a> <a href="https://www.mitacs.ca/" target="_blank"><img src="https://www.mitacs.ca/wp-content/uploads/2023/09/mitacs_logo_white_4.svg" width="90px"></a> | **Ontario Tech University** x **Mitacs Globalink** |
 | :---: | --- |
 | **📋 Role:** | Mitacs Globalink Research Intern (Python Engineer – Autonomous Systems) |
 | **🌍 Location:** | Oshawa, Canada |
